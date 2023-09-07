@@ -1,4 +1,4 @@
-# i-love-python
+# PythonCode
 
-'i-love-python' contains some of my python code, and is mostly focused on data analysis or simulation.
+'PythonCode' contains some of the python code that might be valuable for me to look back at. It contains mainly simulation and data analysis code.
 
